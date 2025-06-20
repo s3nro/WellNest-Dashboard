@@ -1,0 +1,20 @@
+{
+  "lauglaugjhonas123@gmail.com": {
+    "password_hash": "915e1e05bfdc55587dfc3f5fad3ef18bb5f5720f9ff4eb57fcc6d27ca9a3ee23",
+    "username": "sanjo",
+    "age": 19,
+    "height_cm": 174,
+    "weight_kg": 59.0,
+    "bmi": 19.487382745408905,
+    "registration_date": "2025-06-20"
+  },
+  "123ichinoseguren@gmail.com": {
+    "password_hash": "f9c68b0c041b994818ceb4ac6994587d4d6f5ad9cd3907168221ef3765c0641c",
+    "username": "Ichinose",
+    "age": 30,
+    "height_cm": 182,
+    "weight_kg": 64.0,
+    "bmi": 19.32133800265668,
+    "registration_date": "2025-06-20"
+  }
+}

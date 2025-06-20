@@ -1,0 +1,11 @@
+st.markdown(
+    """
+    <style>
+    div[data-testid="stSidebar"] div[role="radiogroup"] label {
+        font-size:24px !important;
+        font-weight: bold;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
